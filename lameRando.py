@@ -39,7 +39,7 @@ while traverseC < 12:
     traverseC = traverseC + 1
     
 finalC = 0
-while finalC < 12:
+while finalC < 13:
     for curVal in final_team_list:
         curData = curVal.split(':')
         if curData[1] == str(finalC):
