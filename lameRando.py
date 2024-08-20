@@ -1,8 +1,8 @@
 import smtplib, ssl
 from random import choice
-team_list = ["Berry McCaukiner", "Air Panther", "_Deadringer_", "Deeqks Freaks", "Amobob amadeo", 
-             "Philly Special", "GoFuckYourself Crawford", "BRs Ballers", "El Borrachero",
-             "#MAGA", "Bill Bixsby HULK", "Bird Brains"]
+team_list = ["Berry", "Air Panther", "_Deadringer_", "Deeqks Freaks", "Amobob amadeo", 
+             "Philly Special", "Go Crawford", "BRs Ballers", "El Borrachero",
+             "#A", "Bill Bixsby HULK", "Bird Brains"]
 team_list_draft_pos = []
 team_index_rando = []
 draft_result = []
